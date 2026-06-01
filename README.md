@@ -1,16 +1,18 @@
 # Student Management System
 
-A simple Python project developed for learning purposes.
+A Python-based Student Management System designed to manage student records efficiently.
 
 ## Features
 - Add Student
 - View Students
 - Search Student
-- Exit Program
+- Update Student Details
+- Delete Student Records
+- Marks Management
+- Automatic Grade Calculation
 
-## Technology Used
+## Technologies Used
 - Python
 
 ## Author
-Siri Chandana# student-management-system
-A Simple Student Management System project developed for learning purposes
+Siri Chandana
